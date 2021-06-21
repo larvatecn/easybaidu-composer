@@ -15,15 +15,15 @@ return [
 
     'encryption' => [
 
-        'key' => env('EASYWECHAT_KEY'),
+        'key' => env('EASYBAIDU_KEY'),
 
     ],
 
     'delegation' => [
 
-        'enabled' => env('EASYWECHAT_DELEGATION', false),
+        'enabled' => env('EASYBAIDU_DELEGATION', false),
 
-        'host' => env('EASYWECHAT_DELEGATION_HOST'),
+        'host' => env('EASYBAIDU_DELEGATION_HOST'),
     ],
 
 ];

@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * This file is part of the EasyWeChatComposer.
+ * This file is part of the EasyBaiduComposer.
  *
  * (c) 张铭阳 <mingyoungcheung@gmail.com>
  *
@@ -32,7 +32,7 @@ trait MakesHttpRequests
     protected $httpClient;
 
     /**
-     * @var \EasyWeChatComposer\Contracts\Encrypter
+     * @var \EasyBaiduComposer\Contracts\Encrypter
      */
     protected $encrypter;
 

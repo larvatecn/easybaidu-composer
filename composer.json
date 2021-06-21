@@ -1,6 +1,6 @@
 {
     "name": "larva/easybaidu-composer",
-    "description": "The composer plugin for EasyWeChat",
+    "description": "The composer plugin for EasyBaidu",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [

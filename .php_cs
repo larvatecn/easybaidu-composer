@@ -1,7 +1,7 @@
 <?php
 
 $header = <<<EOF
-This file is part of the EasyWeChatComposer.
+This file is part of the EasyBaiduComposer.
 
 (c) 张铭阳 <mingyoungcheung@gmail.com>
 

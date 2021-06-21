@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * This file is part of the EasyWeChatComposer.
+ * This file is part of the EasyBaiduComposer.
  *
  * (c) 张铭阳 <mingyoungcheung@gmail.com>
  *
@@ -128,7 +128,7 @@ class Extension
     }
 
     /**
-     * Get the easywechat manifest.
+     * Get the easybaidu manifest.
      *
      * @return array
      */
